@@ -1,0 +1,10 @@
+qkeras==0.9.0
+tensorflow==2.11.1
+hls4ml==0.8.1
+h5py==3.11.0
+mplhep==0.3.50
+cernopendata-client==0.3.0
+pydot==2.0.0
+graphviz==0.20.3
+matplotlib==3.9.1
+fsspec-xrootd==0.3.0
